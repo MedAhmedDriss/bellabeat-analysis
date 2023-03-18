@@ -10,15 +10,8 @@ sleep, health, beauty, and mindfulness.
 
 
 ## Current Project:
-Our current project involves working with Bellabeat's co-founders, Urška Sršen and Sando Mur, as well as their marketing analytics team. We aim to gain a deeper understanding of how existing Bellabeat product consumers utilize their products and provide valuable recommendations for future marketing strategies to ensure continued growth.
+As part of our analysis, we will examine the usage patterns of non-Bellabeat smart devices and compare them to those of Bellabeat's products. Our goal is to answer the following questions:
 
-
-
-
-### We will be analyzing smart device usage from non-Bellabeat smart devices to later compare them to that of Bellabeat’s to answer the following questions:
-
-#### What are some trends in smart device usage?
-
-#### How could these trends apply to Bellabeat customers?
-
-#### How could these trends help influence Bellabeat marketing strategy?
+### What are the prevailing trends in smart device usage?
+### How can these trends be relevant to Bellabeat's customers?
+### How can these trends inform and shape Bellabeat's marketing strategy?
