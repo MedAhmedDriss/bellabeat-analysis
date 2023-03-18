@@ -10,8 +10,7 @@ sleep, health, beauty, and mindfulness.
 
 
 ## Current Project:
-For this current project we have been asked by Bellabeat’s cofounders Urška Sršen and Sando Mur, and Bellabeat’s marketing analytics team to gain better insights on how current
-Bellabeat product consumers use their products and then provide insightful recommendations for continued growth and future marketing strategies.
+Our current project involves working with Bellabeat's co-founders, Urška Sršen and Sando Mur, as well as their marketing analytics team. We aim to gain a deeper understanding of how existing Bellabeat product consumers utilize their products and provide valuable recommendations for future marketing strategies to ensure continued growth.
 
 
 
